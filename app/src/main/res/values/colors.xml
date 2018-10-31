@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#4A312A</color>
+
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <color name="tan_background">#388E3C</color>
+
+    <color name="category_historical">#616161</color>
+
+    <color name="category_markets">#29B6F6</color>
+
+    <color name="category_restaurant">#8800A0</color>
+
+    <color name="category_hotels">#4DB6AC</color>
+</resources>

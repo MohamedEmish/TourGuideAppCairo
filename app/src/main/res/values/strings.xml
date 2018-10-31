@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tour Guide App - Egypt</string>
+
+        <string name="category_historical">Historical Places</string>
+
+        <string name="category_markets">Markets</string>
+
+        <string name="category_hotels">hotels</string>
+
+        <string name="category_restaurant">Restaurants</string>
+
+        <string name="Intro">This is Cairo</string>
+
+
+</resources>
